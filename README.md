@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Higher-order-Hippos/hoh-hoh-hoh.png?label=ready&title=Ready)](https://waffle.io/Higher-order-Hippos/hoh-hoh-hoh)
 # hoh-hoh-hoh
 
 ## Synopsis
